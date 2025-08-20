@@ -2,6 +2,8 @@
 
 A simple web application for converting between metric and imperial units.
 
+<img src="screenshot.png">
+
 ## Features
 
 *   **Length Conversion:** Converts between meters and feet.
